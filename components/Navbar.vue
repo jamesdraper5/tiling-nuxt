@@ -6,8 +6,8 @@
 
     <b-collapse is-nav id="nav_collapse">
       <b-navbar-nav class="ml-auto">
-        <b-nav-item href="#">Work</b-nav-item>
-        <b-nav-item href="#">About</b-nav-item>
+        <b-nav-item href="#work">Work</b-nav-item>
+        <b-nav-item href="#about">About</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
 
