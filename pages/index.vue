@@ -2,7 +2,9 @@
   <div>
     <div class="hero">
       <div class="hero-content">
-        <h1 class="display-4">Quality Tiling in West Cork</h1>
+        <h1 class="display-4">
+          Quality Tiling in West Cork
+        </h1>
         <div class="row">
           <div class="col-md-6 offset-md-3">
             <p class="lead">
@@ -19,8 +21,12 @@
       <div>
         <hr class="my-4">
         <p>Our skilled tilers deliver a quality service to suit any budget and can also offer advice on the design and layout of your project. We can also prepare the area to be tiled, for example removing skirting boards before the area is tiled. No job is too big or too small, so why not take a look at some of our previous work and call us for a quote, or fill out our enquiries form and we will be in touch to discuss your requirements.</p>
-        <b-btn variant="outline-info" href="#work">View our work</b-btn>
-        <b-btn variant="info" href="tel:0863353276">Make an enquiry</b-btn>
+        <b-btn variant="outline-info" href="#work">
+          View our work
+        </b-btn>
+        <b-btn variant="info" href="tel:0863353276">
+          Make an enquiry
+        </b-btn>
       </div>
 
       <div class="row">
@@ -51,68 +57,70 @@
       <hr class="my-5">
 
       <section id="work">
-        <h2 class="mb-3">Our Work</h2>
+        <h2 class="mb-3">
+          Our Work
+        </h2>
 
-        <div class="gallery" id="gallery">
+        <div id="gallery" class="gallery">
           <div class="mb-3 pics">
-            <img src="tiling-work/mosaic-tiling.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/mosaic-tiling.jpg" alt="test" class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/bathroom-tiling-cork.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/bathroom-tiling-cork.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/bath.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/bath.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/cork-bathroom-tiling-1.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/cork-bathroom-tiling-1.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/cork-bathroom-tiling-3.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/cork-bathroom-tiling-3.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/bathroom-tiling-cork-5.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/bathroom-tiling-cork-5.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/cork-bathroom-tiling-2.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/cork-bathroom-tiling-2.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/bathroom-tiling-cork-2.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/bathroom-tiling-cork-2.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/floor-tiling.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/floor-tiling.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/bathroom-tiling-cork-3.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/bathroom-tiling-cork-3.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/bathroom-tiling-cork-4.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/bathroom-tiling-cork-4.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/kitchen-tiling.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/kitchen-tiling.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/kitchen-tiling-2.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/kitchen-tiling-2.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/floor-tiling-2.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/floor-tiling-2.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/mosaic-tiling-2.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/mosaic-tiling-2.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/mosaic-tiling-cork.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/mosaic-tiling-cork.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/tiling-cork.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/tiling-cork.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/tiling-shower.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/tiling-shower.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/kitchen-tiling-4.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/kitchen-tiling-4.jpg" alt="..." class="img-fluid">
           </div>
           <div class="mb-3 pics">
-            <img src="tiling-work/kitchen-tiling-3.jpg" alt="..." class="img-fluid">
+            <img v-img:gallery src="tiling-work/kitchen-tiling-3.jpg" alt="..." class="img-fluid">
           </div>
         </div>
       </section>
@@ -120,7 +128,9 @@
       <hr class="my-5">
 
       <section id="about">
-        <h2 class="mb-3">About West Cork Tiling</h2>
+        <h2 class="mb-3">
+          About West Cork Tiling
+        </h2>
 
         <div class="row">
           <div class="col-sm">
